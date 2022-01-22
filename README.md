@@ -1,4 +1,4 @@
 ## 5City_minimapa
 - Minimapa z 5City
-## About script
+## Discord
 - discord: https://discord.gg/Bauyrg2TzD
